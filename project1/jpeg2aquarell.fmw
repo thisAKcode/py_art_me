@@ -17,8 +17,8 @@
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="19260"
-#!   FME_DOCUMENT_GUID="e6bbee71-75fa-458f-8752-1f9f0a446bda"
-#!   FME_DOCUMENT_PRIORGUID="2662587e-1610-429d-9ca0-05b1c1e27477"
+#!   FME_DOCUMENT_GUID="d4fffa9e-c2d2-42b3-9356-275af760a0e7"
+#!   FME_DOCUMENT_PRIORGUID="2662587e-1610-429d-9ca0-05b1c1e27477,e6bbee71-75fa-458f-8752-1f9f0a446bda"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -27,7 +27,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2019.0.2.0 (20190605 - Build 19260 - WIN64)"
-#!   LAST_SAVE_DATE="2020-11-25T22:22:33"
+#!   LAST_SAVE_DATE="2020-11-27T19:30:36"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -46,7 +46,7 @@
 #!   TITLE=""
 #!   USAGE=""
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="-4112.54 550.006"
+#!   VIEW_POSITION="-4562.55 581.256"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
 #!   ZOOM_SCALE="40"
@@ -57,7 +57,7 @@
 #!   ROLE="READER"
 #!   FORMAT="JPEG"
 #!   DATASET="$(SourceDataset_JPEG)"
-#!   KEYWORD="JPEG_2"
+#!   KEYWORD="JPEG_1"
 #!   MULTI_GEOM_ALLOWED="false"
 #!   ATTR_MAX_LENGTH="0"
 #!   ATTR_CASE="ANY"
@@ -65,7 +65,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="jpeg_type char(255) jpeg_exif_gpsdestlatituderef char(1) jpeg_exif_oecf char(255) jpeg_exif_usercomment char(255) jpeg_exif_meteringmode decimal(5,0) jpeg_exif_gpsprocessingmethod char(255) jpeg_exif_gpsdestlatitude char(255) jpeg_exif_gpslatitude char(255) jpeg_exif_gpssatellites char(255) jpeg_exif_pixelxdimension decimal(12,0) jpeg_exif_gpsspeed char(255) jpeg_exif_isospeedratings decimal(5,0) jpeg_exif_iptc_naa char(255) jpeg_exif_sensitivitytype decimal(5,0) jpeg_exif_gpsmapdatum char(255) jpeg_exif_gpstimestamp char(255) jpeg_exif_gpstrackref char(1) fme_fill_color char(50) jpeg_exif_interoperability_index char(255) jpeg_exif_gpstrack char(255) jpeg_exif_maxaperturevalue char(255) jpeg_exif_gaincontrol decimal(5,0) fme_text_size float jpeg_exif_offsettime char(7) jpeg_exif_gpsdatestamp char(10) jpeg_exif_lightsource decimal(5,0) jpeg_exif_lensmake char(255) jpeg_exif_gpsdestlongitude char(255) jpeg_exif_subsectime_original char(255) fme_geometry char(50) jpeg_exif_spatialfrequencyresponse char(255) jpeg_exif_digitalzoomratio char(255) jpeg_exif_focallength char(255) jpeg_exif_cfa_pattern char(255) jpeg_exif_subjectarea char(255) jpeg_exif_gpsareainformation char(255) jpeg_exif_copyright char(255) jpeg_exif_exposuremode decimal(5,0) jpeg_exif_recommendedexposureindex largeint jpeg_exif_inter_color_profile char(255) jpeg_exif_whitepoint char(255) jpeg_exif_xpauthor char(255) jpeg_exif_pixelydimension decimal(12,0) jpeg_exif_gpsimgdirectionref char(1) jpeg_exif_gpsimgdirection char(255) jpeg_exif_yresolution char(255) jpeg_exif_xpsubject char(255) jpeg_exif_brightnessvalue float jpeg_exif_datetimedigitized char(20) jpeg_exif_customrendered decimal(5,0) fme_primary_axis float jpeg_exif_related_image_length char(255) jpeg_exif_fnumber char(255) jpeg_exif_interoperability_version char(255) jpeg_exif_contrast decimal(5,0) jpeg_exif_colorspace decimal(5,0) jpeg_exif_shutterspeedvalue char(255) jpeg_exif_focalplaneyresolution char(255) jpeg_exif_gpsdestbearing char(255) jpeg_exif_offsettimedigitized char(7) jpeg_exif_subsectime char(255) jpeg_exif_gpsdestdistanceref char(1) jpeg_exif_exposurebiasvalue char(255) jpeg_exif_gpslongituderef char(1) jpeg_exif_makernote char(255) jpeg_exif_primarychromaticities char(255) jpeg_exif_spectralsensitivity char(255) jpeg_exif_transferfunction char(7680) jpeg_exif_devicesettingdescription char(255) jpeg_exif_whitebalance decimal(5,0) jpeg_exif_exposureindex float fme_dataset char(50) jpeg_exif_cfapattern char(255) jpeg_exif_gpslongitude char(255) jpeg_exif_gpsdestbearingref char(1) jpeg_exif_gpsmeasuremode char(1) jpeg_exif_subsectime_digitized char(255) jpeg_exif_offsettimeoriginal char(7) fme_feature_type char(50) jpeg_exif_gpshpositioningerror float jpeg_exif_subjectdistancerange decimal(5,0) jpeg_exif_gpsspeedref char(1) jpeg_exif_subjectdistance float jpeg_exif_exposuretime char(255) jpeg_exif_sensingmethod decimal(5,0) jpeg_exif_gpsaltituderef char(255) jpeg_exif_flash decimal(5,0) jpeg_exif_compressedbitsperpixel char(255) jpeg_exif_flashpixversion char(255) jpeg_exif_related_image_width char(255) jpeg_exif_model char(255) multi_reader_id integer fme_type char(50) jpeg_exif_focalplanexresolution char(255) jpeg_exif_xresolution char(255) fme_start_angle float jpeg_exif_gpslatituderef char(1) jpeg_exif_focalplaneresolutionunit decimal(5,0) jpeg_exif_gpsdifferential decimal(5,0) jpeg_exif_resolutionunit decimal(5,0) jpeg_exif_referenceblackwhite char(255) jpeg_exif_gpsdestlongituderef char(1) fme_color char(50) jpeg_exif_saturation decimal(5,0) jpeg_exif_software char(255) jpeg_exif_isospeedlatitudezzz largeint jpeg_exif_related_image_file_format char(255) jpeg_exif_exposureprogram decimal(5,0) jpeg_exif_gpsaltitude char(255) jpeg_exif_ycbcrpositioning decimal(5,0) jpeg_exif_componentsconfiguration char(255) multi_reader_type char(50) fme_secondary_axis float jpeg_exif_isospeed largeint jpeg_exif_filesource char(255) jpeg_exif_ycbcrcoefficients char(255) jpeg_exif_isospeedlatitudeyyy largeint jpeg_exif_imageuniqueid char(33) jpeg_exif_make char(255) jpeg_exif_subjectlocation char(255) jpeg_exif_lensserialnumber char(255) jpeg_exif_datetimeoriginal char(20) jpeg_exif_lensspecification char(255) jpeg_exif_xpcomment char(255) jpeg_exif_gpsdop char(255) jpeg_exif_exifversion char(4) jpeg_exif_aperturevalue char(255) jpeg_exif_xptitle char(255) jpeg_exif_focallengthin35mmfilm decimal(5,0) jpeg_exif_orientation decimal(5,0) jpeg_exif_lensmodel char(255) fme_basename char(50) fme_rotation float multi_reader_keyword char(50) jpeg_exif_sharpness decimal(5,0) jpeg_exif_scenetype char(255) jpeg_exif_cameraownername char(255) fme_text_string char(50) jpeg_exif_imagedescription char(255) fme_sweep_angle float jpeg_exif_datetime char(20) jpeg_exif_gpsversionid char(255) jpeg_exif_bodyserialnumber char(255) jpeg_exif_artist char(255) jpeg_exif_cfa_repeat_pattern_dim char(255) jpeg_exif_scenecapturetype decimal(5,0) multi_reader_full_id integer jpeg_exif_standardoutputsensitivity largeint jpeg_exif_gpsstatus char(1) jpeg_exif_relatedsoundfile char(13) jpeg_exif_xpkeywords char(255) jpeg_exif_gpsdestdistance char(255)"
+#!   EXPOSABLE_ATTRS="jpeg_exif_cfa_pattern char(255) fme_geometry char(50) jpeg_exif_gpsversionid char(255) jpeg_exif_gpsdestdistanceref char(1) jpeg_exif_gpstrack char(255) jpeg_exif_lensmodel char(255) multi_reader_keyword char(50) jpeg_exif_datetime char(20) jpeg_exif_gpsareainformation char(255) jpeg_exif_digitalzoomratio char(255) jpeg_exif_gaincontrol decimal(5,0) jpeg_exif_imageuniqueid char(33) jpeg_exif_software char(255) jpeg_exif_gpslongitude char(255) jpeg_exif_aperturevalue char(255) jpeg_exif_isospeedlatitudezzz largeint fme_fill_color char(50) jpeg_exif_gpsmapdatum char(255) jpeg_exif_gpsaltituderef char(255) jpeg_exif_gpsimgdirectionref char(1) jpeg_exif_bodyserialnumber char(255) jpeg_exif_gpsmeasuremode char(1) jpeg_exif_related_image_file_format char(255) jpeg_exif_gpsprocessingmethod char(255) jpeg_exif_gpsaltitude char(255) jpeg_exif_subjectarea char(255) jpeg_exif_sensitivitytype decimal(5,0) jpeg_exif_whitebalance decimal(5,0) jpeg_exif_gpshpositioningerror float multi_reader_type char(50) jpeg_exif_xpkeywords char(255) jpeg_exif_gpsdatestamp char(10) jpeg_exif_resolutionunit decimal(5,0) jpeg_exif_lensspecification char(255) jpeg_exif_xptitle char(255) jpeg_exif_scenecapturetype decimal(5,0) jpeg_exif_flashpixversion char(255) jpeg_exif_datetimedigitized char(20) jpeg_exif_model char(255) jpeg_exif_gpslongituderef char(1) jpeg_exif_primarychromaticities char(255) jpeg_exif_exposurebiasvalue char(255) jpeg_exif_artist char(255) jpeg_exif_gpsdestdistance char(255) jpeg_exif_related_image_length char(255) jpeg_exif_subsectime_digitized char(255) jpeg_exif_exifversion char(4) jpeg_exif_gpsdestlongituderef char(1) jpeg_exif_pixelxdimension decimal(12,0) jpeg_exif_contrast decimal(5,0) jpeg_exif_customrendered decimal(5,0) jpeg_exif_gpsdestlatituderef char(1) jpeg_exif_xpcomment char(255) jpeg_exif_referenceblackwhite char(255) fme_dataset char(50) jpeg_exif_transferfunction char(7680) jpeg_exif_gpslatitude char(255) jpeg_exif_subjectdistancerange decimal(5,0) jpeg_exif_offsettimeoriginal char(7) jpeg_exif_flash decimal(5,0) jpeg_exif_xresolution char(255) fme_rotation float jpeg_exif_related_image_width char(255) jpeg_exif_lensserialnumber char(255) jpeg_exif_focalplaneyresolution char(255) jpeg_exif_focalplaneresolutionunit decimal(5,0) jpeg_exif_isospeedratings decimal(5,0) jpeg_exif_iptc_naa char(255) jpeg_exif_gpstimestamp char(255) fme_color char(50) jpeg_exif_subsectime char(255) jpeg_exif_xpauthor char(255) jpeg_exif_orientation decimal(5,0) jpeg_exif_gpsdop char(255) jpeg_exif_colorspace decimal(5,0) jpeg_exif_gpssatellites char(255) jpeg_exif_isospeedlatitudeyyy largeint jpeg_exif_datetimeoriginal char(20) jpeg_exif_exposuretime char(255) jpeg_exif_ycbcrcoefficients char(255) jpeg_exif_gpsdifferential decimal(5,0) jpeg_exif_gpsspeedref char(1) jpeg_exif_exposuremode decimal(5,0) jpeg_exif_gpslatituderef char(1) jpeg_exif_focalplanexresolution char(255) jpeg_exif_maxaperturevalue char(255) jpeg_exif_componentsconfiguration char(255) jpeg_exif_spectralsensitivity char(255) jpeg_exif_lensmake char(255) multi_reader_full_id integer jpeg_exif_cfapattern char(255) jpeg_exif_standardoutputsensitivity largeint jpeg_exif_usercomment char(255) fme_secondary_axis float fme_start_angle float jpeg_exif_gpsstatus char(1) jpeg_exif_saturation decimal(5,0) jpeg_exif_gpsspeed char(255) jpeg_exif_cfa_repeat_pattern_dim char(255) jpeg_exif_devicesettingdescription char(255) jpeg_exif_oecf char(255) jpeg_exif_gpsdestlatitude char(255) fme_feature_type char(50) jpeg_exif_pixelydimension decimal(12,0) jpeg_exif_filesource char(255) jpeg_exif_offsettimedigitized char(7) fme_type char(50) jpeg_exif_scenetype char(255) jpeg_exif_shutterspeedvalue char(255) jpeg_exif_gpsdestbearingref char(1) jpeg_exif_gpsdestlongitude char(255) jpeg_exif_focallength char(255) fme_primary_axis float jpeg_exif_interoperability_version char(255) fme_basename char(50) fme_text_string char(50) jpeg_exif_gpstrackref char(1) jpeg_exif_inter_color_profile char(255) jpeg_exif_lightsource decimal(5,0) jpeg_type char(255) jpeg_exif_subjectdistance float jpeg_exif_focallengthin35mmfilm decimal(5,0) jpeg_exif_gpsdestbearing char(255) jpeg_exif_gpsimgdirection char(255) jpeg_exif_exposureindex float jpeg_exif_interoperability_index char(255) fme_sweep_angle float jpeg_exif_recommendedexposureindex largeint jpeg_exif_whitepoint char(255) jpeg_exif_makernote char(255) jpeg_exif_sharpness decimal(5,0) jpeg_exif_offsettime char(7) jpeg_exif_exposureprogram decimal(5,0) fme_text_size float jpeg_exif_fnumber char(255) jpeg_exif_cameraownername char(255) jpeg_exif_isospeed largeint jpeg_exif_subjectlocation char(255) jpeg_exif_spatialfrequencyresponse char(255) jpeg_exif_sensingmethod decimal(5,0) jpeg_exif_ycbcrpositioning decimal(5,0) jpeg_exif_copyright char(255) jpeg_exif_xpsubject char(255) jpeg_exif_subsectime_original char(255) jpeg_exif_meteringmode decimal(5,0) jpeg_exif_brightnessvalue float jpeg_exif_yresolution char(255) jpeg_exif_relatedsoundfile char(13) jpeg_exif_compressedbitsperpixel char(255) jpeg_exif_make char(255) multi_reader_id integer jpeg_exif_imagedescription char(255)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -366,7 +366,7 @@
 #!   BOUNDING_RECT="-1656.5122251222515 -235 454 71"
 #!   ORDER="500000000000000"
 #!   COLLAPSED="true"
-#!   KEYWORD="JPEG_2"
+#!   KEYWORD="JPEG_1"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
 #!   HIDDEN_USER_ATTRS=""
@@ -382,9 +382,9 @@
 #! <FMESERVER>
 #! <READER_DATASETS>
 #! <DATASET 
-#!   NAME="JPEG_2"
-#!   OVERRIDE="-JPEG_2_DATASET"
-#!   DATASET="JPEG_2/Capture.JPG"
+#!   NAME="JPEG_1"
+#!   OVERRIDE="-JPEG_1_DATASET"
+#!   DATASET="JPEG_1/Capture.JPG"
 #! />
 #! </READER_DATASETS>
 #! </FMESERVER>
@@ -866,7 +866,7 @@
 #! </WORKSPACE>
 
 FME_PYTHON_VERSION 37
-GUI IGNORE SourceDataset_JPEG_2,JPEG_IN_APPLY_GCPS_JPEG_2,JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_2,JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_2,JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_2,JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_2,JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_2,JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_2,JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_2,JPEG_IN_CLIP_TO_ENVELOPE_JPEG_2,JPEG_IN_NETWORK_AUTHENTICATION_JPEG_2
+GUI IGNORE SourceDataset_JPEG_1,JPEG_IN_APPLY_GCPS_JPEG_1,JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_1,JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_1,JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_1,JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_1,JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_1,JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_1,JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_1,JPEG_IN_CLIP_TO_ENVELOPE_JPEG_1,JPEG_IN_NETWORK_AUTHENTICATION_JPEG_1
 DEFAULT_MACRO SourceDataset_JPEG $(FME_MF_DIR)Capture.JPG
 GUI MULTIFILE SourceDataset_JPEG JPEG_Files(*.jpg;*.jpeg;*.jpe;*.jif;*.jfif;*.jfi)|*.jpg;*.jpeg;*.jpe;*.jif;*.jfif;*.jfi|Compressed_Files(*.bz2;*.gz)|*.bz2;*.gz|Archive_Files(*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx)|*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx|All_Files(*)|* Source JPEG File(s):
 INCLUDE [ if {{$(SourceDataset_JPEG)} == {}} { puts_real {Parameter 'SourceDataset_JPEG' must be given a value.}; exit 1; }; ]
@@ -874,16 +874,16 @@ INCLUDE [ if {{$(SourceDataset_JPEG)} == {}} { puts_real {Parameter 'SourceDatas
 #! START_WB_HEADER
 READER_TYPE MULTI_READER
 MULTI_READER_TYPE{0} JPEG
-MULTI_READER_KEYWORD{0} JPEG_2
+MULTI_READER_KEYWORD{0} JPEG_1
 MULTI_READER_GEN_DIRECTIVES{0} GCP_INTERPOLATION_METHOD,NearestNeighbor,GROUP_BY_DATASET,No,SEARCH_ENVELOPE_MINX,0,SEARCH_ENVELOPE_MAXY,0,SEARCH_ENVELOPE_MINY,0,CLIP_TO_ENVELOPE,NO,USE_SEARCH_ENVELOPE,NO,SEARCH_ENVELOPE_MAXX,0,SEARCH_ENVELOPE_COORDINATE_SYSTEM,,_MERGE_SCHEMAS,YES,APPLY_GCPS,NO,EXPOSE_ATTRS_GROUP,,ALL_ATTRS_STARTING_WITH_EXIF_ARE_FORMAT_ATTRS,YES,READER_META_ATTRIBUTES,fme_dataset<space>fme_basename,UPDATE_FEATURE_TYPES,yes,JPEG_EXPOSE_FORMAT_ATTRS,
 WRITER_TYPE NULL
 WRITER_KEYWORD NULL_DEST
 NULL_DEST_DATASET null
 #! END_WB_HEADER
 #! START_WB_HEADER
-MACRO WB_KEYWORD "JPEG_2"
+MACRO WB_KEYWORD "JPEG_1"
 #! END_WB_HEADER
-#! START_SOURCE_HEADER JPEG JPEG_2
+#! START_SOURCE_HEADER JPEG JPEG_1
 # =======================================================================
 # The following GUI line prompts for a file to be used as the source JPEG file.
 # The user input is stored in a macro, which is then used to define
@@ -893,75 +893,75 @@ MACRO WB_KEYWORD "JPEG_2"
 #! START_WB_HEADER
 DEFAULT_MACRO SourceDataset
 INCLUDE [ if {{$(SourceDataset)} != ""} {                        \
- puts {DEFAULT_MACRO SourceDataset_JPEG_2 $(SourceDataset)}     \
+ puts {DEFAULT_MACRO SourceDataset_JPEG_1 $(SourceDataset)}     \
  } ]
 #! END_WB_HEADER
-#! START_SOURCE_HEADER JPEG JPEG_2
-DEFAULT_MACRO SourceDataset_JPEG_2 $(SourceDataset_JPEG)
-GUI MULTIFILE SourceDataset_JPEG_2 JPEG_Files(*.jpg;*.jpeg;*.jpe;*.jif;*.jfif;*.jfi)|*.jpg;*.jpeg;*.jpe;*.jif;*.jfif;*.jfi|All_Files(*)|* Source JPEG File(s):
-DEFAULT_MACRO JPEG_IN_READER_META_ATTRIBUTES_JPEG_2 fme_dataset fme_basename
-JPEG_2_READER_META_ATTRIBUTES "$(JPEG_IN_READER_META_ATTRIBUTES_JPEG_2)"
-DEFAULT_MACRO JPEG_IN_GROUP_BY_DATASET_JPEG_2 No
-JPEG_2_GROUP_BY_DATASET "$(JPEG_IN_GROUP_BY_DATASET_JPEG_2)"
-DEFAULT_MACRO JPEG_IN_APPLY_GCPS_JPEG_2 NO
-JPEG_2_APPLY_GCPS "$(JPEG_IN_APPLY_GCPS_JPEG_2)"
-GUI ACTIVEDISCLOSUREGROUP JPEG_IN_APPLY_GCPS_JPEG_2 JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_2 Apply GCP's
-DEFAULT_MACRO JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_2 NearestNeighbor
-JPEG_2_GCP_INTERPOLATION_METHOD "$(JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_2)"
-GUI LOOKUP_CHOICE JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_2 Nearest<space>Neighbor,NearestNeighbor%Bilinear,Bilinear%Bicubic,Bicubic GCP Interpolation Method
-GUI LOOKUP JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_2 <Unused>,NearestNeighbor 
-DEFAULT_MACRO JPEG_IN_EXPOSE_ATTRS_GROUP_JPEG_2 
-JPEG_2_EXPOSE_ATTRS_GROUP "$(JPEG_IN_EXPOSE_ATTRS_GROUP_JPEG_2)"
+#! START_SOURCE_HEADER JPEG JPEG_1
+DEFAULT_MACRO SourceDataset_JPEG_1 $(SourceDataset_JPEG)
+GUI MULTIFILE SourceDataset_JPEG_1 JPEG_Files(*.jpg;*.jpeg;*.jpe;*.jif;*.jfif;*.jfi)|*.jpg;*.jpeg;*.jpe;*.jif;*.jfif;*.jfi|All_Files(*)|* Source JPEG File(s):
+DEFAULT_MACRO JPEG_IN_READER_META_ATTRIBUTES_JPEG_1 fme_dataset fme_basename
+JPEG_1_READER_META_ATTRIBUTES "$(JPEG_IN_READER_META_ATTRIBUTES_JPEG_1)"
+DEFAULT_MACRO JPEG_IN_GROUP_BY_DATASET_JPEG_1 No
+JPEG_1_GROUP_BY_DATASET "$(JPEG_IN_GROUP_BY_DATASET_JPEG_1)"
+DEFAULT_MACRO JPEG_IN_APPLY_GCPS_JPEG_1 NO
+JPEG_1_APPLY_GCPS "$(JPEG_IN_APPLY_GCPS_JPEG_1)"
+GUI ACTIVEDISCLOSUREGROUP JPEG_IN_APPLY_GCPS_JPEG_1 JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_1 Apply GCP's
+DEFAULT_MACRO JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_1 NearestNeighbor
+JPEG_1_GCP_INTERPOLATION_METHOD "$(JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_1)"
+GUI LOOKUP_CHOICE JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_1 Nearest<space>Neighbor,NearestNeighbor%Bilinear,Bilinear%Bicubic,Bicubic GCP Interpolation Method
+GUI LOOKUP JPEG_IN_GCP_INTERPOLATION_METHOD_JPEG_1 <Unused>,NearestNeighbor 
+DEFAULT_MACRO JPEG_IN_EXPOSE_ATTRS_GROUP_JPEG_1 
+JPEG_1_EXPOSE_ATTRS_GROUP "$(JPEG_IN_EXPOSE_ATTRS_GROUP_JPEG_1)"
 # Include this file in source setting section to add external search envelope processing
 # Zero as a default means we don't do any search -- this makes workbench happier
-DEFAULT_MACRO JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_2 NO
-JPEG_2_USE_SEARCH_ENVELOPE "$(JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_2)"
-GUI ACTIVEDISCLOSUREGROUP JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_2 JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_2%JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_2%JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_2%JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_2%JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_2%JPEG_IN_CLIP_TO_ENVELOPE_JPEG_2%JPEG_IN_SEARCH_METHOD%JPEG_IN_SEARCH_METHOD_FILTER%JPEG_IN_SEARCH_ORDER%JPEG_IN_SEARCH_FEATURE%JPEG_IN_DUMMY_SEARCH_ENVELOPE_PARAMETER Use Search Envelope
+DEFAULT_MACRO JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_1 NO
+JPEG_1_USE_SEARCH_ENVELOPE "$(JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_1)"
+GUI ACTIVEDISCLOSUREGROUP JPEG_IN_USE_SEARCH_ENVELOPE_JPEG_1 JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_1%JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_1%JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_1%JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_1%JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_1%JPEG_IN_CLIP_TO_ENVELOPE_JPEG_1%JPEG_IN_SEARCH_METHOD%JPEG_IN_SEARCH_METHOD_FILTER%JPEG_IN_SEARCH_ORDER%JPEG_IN_SEARCH_FEATURE%JPEG_IN_DUMMY_SEARCH_ENVELOPE_PARAMETER Use Search Envelope
 # ===========================================================================
-GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_2 <Unused>,0 
-DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_2 0
-JPEG_2_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_2)"
-GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_2 Minimum X:
+GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_1 <Unused>,0 
+DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_1 0
+JPEG_1_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_1)"
+GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MINX_JPEG_1 Minimum X:
 # ===========================================================================
-GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_2 <Unused>,0 
-DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_2 0
-JPEG_2_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_2)"
-GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_2 Minimum Y:
+GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_1 <Unused>,0 
+DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_1 0
+JPEG_1_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_1)"
+GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MINY_JPEG_1 Minimum Y:
 # ===========================================================================
-GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_2 <Unused>,0 
-DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_2 0
-JPEG_2_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_2)"
-GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_2 Maximum X:
+GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_1 <Unused>,0 
+DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_1 0
+JPEG_1_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_1)"
+GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MAXX_JPEG_1 Maximum X:
 # ===========================================================================
-GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_2 <Unused>,0 
-DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_2 0
-JPEG_2_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_2)"
-GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_2 Maximum Y:
+GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_1 <Unused>,0 
+DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_1 0
+JPEG_1_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_1)"
+GUI OPTIONAL FLOAT JPEG_IN_SEARCH_ENVELOPE_MAXY_JPEG_1 Maximum Y:
 # ===========================================================================
-GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_2 <Unused>, 
-DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_2 
-JPEG_2_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_2)"
-GUI OPTIONAL COORDSYS JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_2 Search Envelope Coordinate System:
+GUI LOOKUP JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_1 <Unused>, 
+DEFAULT_MACRO JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_1 
+JPEG_1_SEARCH_ENVELOPE "$(JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_1)"
+GUI OPTIONAL COORDSYS JPEG_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_JPEG_1 Search Envelope Coordinate System:
 # ===========================================================================
 # BUG18999: We now have a soft clip to fall back on like native spatial index
 # thus we are reintroducing the clip to envelop as an option for users.
 # Defualt to soft clip as per the existing database readers we are emulating
-GUI LOOKUP JPEG_IN_CLIP_TO_ENVELOPE_JPEG_2 <Unused>,NO 
-DEFAULT_MACRO JPEG_IN_CLIP_TO_ENVELOPE_JPEG_2 NO
-JPEG_2_CLIP_TO_ENVELOPE "$(JPEG_IN_CLIP_TO_ENVELOPE_JPEG_2)"
-GUI OPTIONAL CHECKBOX JPEG_IN_CLIP_TO_ENVELOPE_JPEG_2 YES%NO Clip to Search Envelope
-DEFAULT_MACRO JPEG_IN_ALL_ATTRS_STARTING_WITH_EXIF_ARE_FORMAT_ATTRS_JPEG_2 YES
-JPEG_2_ALL_ATTRS_STARTING_WITH_EXIF_ARE_FORMAT_ATTRS "$(JPEG_IN_ALL_ATTRS_STARTING_WITH_EXIF_ARE_FORMAT_ATTRS_JPEG_2)"
+GUI LOOKUP JPEG_IN_CLIP_TO_ENVELOPE_JPEG_1 <Unused>,NO 
+DEFAULT_MACRO JPEG_IN_CLIP_TO_ENVELOPE_JPEG_1 NO
+JPEG_1_CLIP_TO_ENVELOPE "$(JPEG_IN_CLIP_TO_ENVELOPE_JPEG_1)"
+GUI OPTIONAL CHECKBOX JPEG_IN_CLIP_TO_ENVELOPE_JPEG_1 YES%NO Clip to Search Envelope
+DEFAULT_MACRO JPEG_IN_ALL_ATTRS_STARTING_WITH_EXIF_ARE_FORMAT_ATTRS_JPEG_1 YES
+JPEG_1_ALL_ATTRS_STARTING_WITH_EXIF_ARE_FORMAT_ATTRS "$(JPEG_IN_ALL_ATTRS_STARTING_WITH_EXIF_ARE_FORMAT_ATTRS_JPEG_1)"
 # ===========================================================================
-DEFAULT_MACRO JPEG_IN_NETWORK_AUTHENTICATION_JPEG_2 
-JPEG_2_NETWORK_AUTHENTICATION "$(JPEG_IN_NETWORK_AUTHENTICATION_JPEG_2)"
-GUI OPTIONAL AUTHENTICATOR JPEG_IN_NETWORK_AUTHENTICATION_JPEG_2 CONTAINER%GROUP%CONTAINER_TITLE%"Network Authentication"%PROMPT_TYPE%NETWORK Network Authentication
+DEFAULT_MACRO JPEG_IN_NETWORK_AUTHENTICATION_JPEG_1 
+JPEG_1_NETWORK_AUTHENTICATION "$(JPEG_IN_NETWORK_AUTHENTICATION_JPEG_1)"
+GUI OPTIONAL AUTHENTICATOR JPEG_IN_NETWORK_AUTHENTICATION_JPEG_1 CONTAINER%GROUP%CONTAINER_TITLE%"Network Authentication"%PROMPT_TYPE%NETWORK Network Authentication
 # ============================================================================ 
-DEFAULT_MACRO JPEG_IN_ATTRIBUTE_READING_JPEG_2 ALL
-JPEG_2_ATTRIBUTE_READING "$(JPEG_IN_ATTRIBUTE_READING_JPEG_2)"
+DEFAULT_MACRO JPEG_IN_ATTRIBUTE_READING_JPEG_1 ALL
+JPEG_1_ATTRIBUTE_READING "$(JPEG_IN_ATTRIBUTE_READING_JPEG_1)"
 # ============================================================================ 
-JPEG_2_GENERATE_FME_BUILD_NUM 19260
-JPEG_2_DATASET "$(SourceDataset_JPEG_2)"
+JPEG_1_GENERATE_FME_BUILD_NUM 19260
+JPEG_1_DATASET "$(SourceDataset_JPEG_1)"
 #! END_SOURCE_HEADER
 #! START_WB_HEADER
 #! END_WB_HEADER
@@ -976,10 +976,10 @@ FME_REPROJECTION_ENGINE FME
 FME_IMPLICIT_CSMAP_REPROJECTION_MODE Auto
 FME_GEOMETRY_HANDLING Enhanced
 FME_STROKE_MAX_DEVIATION 0
-DEFAULT_MACRO DATASET_KEYWORD_JPEG_2 JPEG_2
+DEFAULT_MACRO DATASET_KEYWORD_JPEG_1 JPEG_1
 # -------------------------------------------------------------------------
 
-JPEG_2_READER_META_ATTRIBUTES fme_basename fme_feature_type
+JPEG_1_READER_META_ATTRIBUTES fme_feature_type fme_basename
 
 # -------------------------------------------------------------------------
 
@@ -996,17 +996,17 @@ MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/inspector.ffs
 MACRO VISUALIZER_SCHEMA_FILE $(WORKSPACE_TEMP_DIR)/inspector.fsc
 MACRO VISUALIZER_CREATE_SPATIAL_INDEX YES
 # -------------------------------------------------------------------------
-JPEG_2_DEF JPEG
+JPEG_1_DEF JPEG
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   MULTI_READER_KEYWORD $(DATASET_KEYWORD_JPEG_2)   INPUT FEATURE_TYPE *    ROUTE JPEG JPEG_2::JPEG multi_reader_keyword,$(DATASET_KEYWORD_JPEG_2) TO FME_GENERIC ::JPEG ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
-JPEG_2_MERGE_DEF JPEG_2::JPEG EXACT JPEG
+FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   MULTI_READER_KEYWORD $(DATASET_KEYWORD_JPEG_1)   INPUT FEATURE_TYPE *    ROUTE JPEG JPEG_1::JPEG multi_reader_keyword,$(DATASET_KEYWORD_JPEG_1) TO FME_GENERIC ::JPEG ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
+JPEG_1_MERGE_DEF JPEG_1::JPEG EXACT JPEG
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "JPEG (JPEG_2) Splitter"    INPUT FEATURE_TYPE JPEG    OUTPUT FEATURE_TYPE JPEG_JPEG_2_0_TmEp3geCp1E=    OUTPUT FEATURE_TYPE JPEG_JPEG_2_1_5WW4JBseOqo=
+FACTORY_DEF * TeeFactory    FACTORY_NAME "JPEG (JPEG_1) Splitter"    INPUT FEATURE_TYPE JPEG    OUTPUT FEATURE_TYPE JPEG_JPEG_1_0_TmEp3geCp1E=    OUTPUT FEATURE_TYPE JPEG_JPEG_1_1_5WW4JBseOqo=
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
-FACTORY_DEF * RasterSegmentationFactory    FACTORY_NAME RasterToPolygonCoercer    INPUT  FEATURE_TYPE JPEG_JPEG_2_1_5WW4JBseOqo=    POLYGON_MODE UNIQUE    EXTRACT_NODATA No    PRESERVE_ATTRIBUTES YES    POLYGON_LABEL_ATTRIBUTE "_label"    REJECT_INVALID_FEATURES YES    OUTPUT POLYGONS FEATURE_TYPE RasterToPolygonCoercer_POLYGONS    OUTPUT <REJECTED> FEATURE_TYPE RasterToPolygonCoercer_<REJECTED>
+FACTORY_DEF * RasterSegmentationFactory    FACTORY_NAME RasterToPolygonCoercer    INPUT  FEATURE_TYPE JPEG_JPEG_1_1_5WW4JBseOqo=    POLYGON_MODE UNIQUE    EXTRACT_NODATA No    PRESERVE_ATTRIBUTES YES    POLYGON_LABEL_ATTRIBUTE "_label"    REJECT_INVALID_FEATURES YES    OUTPUT POLYGONS FEATURE_TYPE RasterToPolygonCoercer_POLYGONS    OUTPUT <REJECTED> FEATURE_TYPE RasterToPolygonCoercer_<REJECTED>
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME RasterToPolygonCoercer_<Rejected> INPUT FEATURE_TYPE RasterToPolygonCoercer_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, RasterToPolygonCoercer<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
@@ -1060,7 +1060,7 @@ FACTORY_DEF * RecorderFactory    FACTORY_NAME PythonCaller_Output_Recorder    CO
 # Assumption is that the workspace temp dir has been already set and created.  See controldefs.cpp - ControlDefs::writeVisualizerTempDir
 DEFAULT_MACRO WORKSPACE_TEMP_DIR
 INCLUDE [    set safeName "[regsub -all {[^a-zA-Z0-9]} {JPEG} _]_[expr round(rand() * 1000000)]_[clock clicks  -milliseconds]";    puts "MACRO SAFE_FFS_NAME $safeName"; ]
-FACTORY_DEF {*} InspectorFactory    FACTORY_NAME JPEG_Prepper    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE JPEG_JPEG_2_0_TmEp3geCp1E=    GROUP_ATTRIBUTE __inspector_feature_type_attr__    GROUP_BY {  }    GROUP_ATTRIBUTE_PREFIX { JPEG }    RASTER_REDUCTION NoReduction    POINT_CLOUD_REDUCTION NO_THINNING    OUTPUT RESULT FEATURE_TYPE __viewme__
+FACTORY_DEF {*} InspectorFactory    FACTORY_NAME JPEG_Prepper    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE JPEG_JPEG_1_0_TmEp3geCp1E=    GROUP_ATTRIBUTE __inspector_feature_type_attr__    GROUP_BY {  }    GROUP_ATTRIBUTE_PREFIX { JPEG }    RASTER_REDUCTION NoReduction    POINT_CLOUD_REDUCTION NO_THINNING    OUTPUT RESULT FEATURE_TYPE __viewme__
 # Now route all the features into the recorder, changing their
 # feature type to the transformer name so that they view nicely
 DEFAULT_MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/$(SAFE_FFS_NAME).ffs
