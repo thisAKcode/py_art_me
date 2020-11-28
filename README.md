@@ -1,5 +1,8 @@
 # py_art_me
 
+keywords Visual Design Component, generative art, 
+
+<https://www.youtube.com/watch?v=_F_qZBWmjyI&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=6>
 
 py_art_me is a collection of sources related to making art programmatically. 
 
