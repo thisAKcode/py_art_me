@@ -2,13 +2,14 @@
 
 keywords Visual Design Component, generative art, 
 
-<https://www.youtube.com/watch?v=_F_qZBWmjyI&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=6>
-Go forth and make.
+
+# "Go forth and make"
 1. <https://www.youtube.com/watch?v=Y-hQn4KQA70>
 2. <https://stackoverflow.com/questions/25910299/best-way-to-create-vector-graphics-in-python-to-be-used-in-word-powerpoint>
 3. <https://pypi.org/project/drawSvg/>
 4. <https://graphicdesign.stackexchange.com/questions/109819/is-there-a-way-to-auto-generate-parametric-vector-graphics-to-use-in-inkscape>
 5. <https://pycairo.readthedocs.io/en/latest/tutorial.html>
+6. <https://www.youtube.com/watch?v=_F_qZBWmjyI&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=6>
 
 
 py_art_me is a collection of sources related to making art programmatically. 
