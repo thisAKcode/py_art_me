@@ -1,7 +1,9 @@
 # py_art_me
 
 keywords Visual Design Component, generative art, 
-
+# formats to pay attention to: 
+1. svg
+2. dxf
 
 # "Go forth and make"
 1. <https://www.youtube.com/watch?v=Y-hQn4KQA70>
