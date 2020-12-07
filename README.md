@@ -12,6 +12,7 @@ keywords Visual Design Component, generative art,
 4. <https://graphicdesign.stackexchange.com/questions/109819/is-there-a-way-to-auto-generate-parametric-vector-graphics-to-use-in-inkscape>
 5. <https://pycairo.readthedocs.io/en/latest/tutorial.html>
 6. <https://www.youtube.com/watch?v=_F_qZBWmjyI&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=6>
+7. <https://www.makeartwithpython.com/blog/10-print-in-python/>
 
 
 py_art_me is a collection of sources related to making art programmatically. 
