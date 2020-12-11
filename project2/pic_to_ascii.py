@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=v_raWlX7tZY&list=UUxVRDu9ujwOrmDxu72V3ujQ
 import PIL
 from pathlib import Path
 
@@ -8,18 +9,22 @@ ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
 
 # path separator on Windows
 test2 = 'C:/py_art_me/project2/Capture.JPG'
-print(test2)
-# test2 = Path(r'C:\py_art_me\project2\Capture.JPG')
-print(test2)
-obj222 = Image.open(test2)
-print(obj222)
+
+image = Image.open(test2)
+width, height = image.size
+print(width)
+print(height)
+print(599/710)
 
 def setsize_image(image, new_width=100):
     width, height = image.size
-    ratio = height/width
+    ratio = height/width 
+    ratio = height / width / 1.65 # # maintain the aspect ratio
     new_height = int(new_width * ratio)
     resized_image = image.resize((new_width, new_height))
-    return(resized_image)
+    return(resized_image) #(100,84)
+print(setsize_image(image, new_width=100).size)
+
 
 # convert each pixel to grayscale
 def grayify(image):
