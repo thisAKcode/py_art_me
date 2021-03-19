@@ -14,6 +14,7 @@ keywords Visual Design Component, generative art,
 6. <https://www.youtube.com/watch?v=_F_qZBWmjyI&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=6>
 7. <https://www.makeartwithpython.com/blog/10-print-in-python/>
 8. <https://github.com/SebastienCaillat/Vasarely-VIII-Sin-Hat-A/blob/master/Vasarely-VIII-Sin-Hat-A.py>
+9. <https://generativeartistry.com/tutorials/>
 
 py_art_me is a collection of sources related to making art programmatically. 
 
