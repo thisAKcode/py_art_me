@@ -29,10 +29,15 @@ class CanvasComponent:
         return self.component_area(self.vertices)
 
 @staticmethod 
-def extraordinary_thing(r): 
+def extraordinary_thing(): 
     return CanvasComponent('Spontan line', x1,y1,x2,y2)
 
 ```
+
+A static method cannot modify object state or class state. Static methods are restricted in what data they can access— they’re primarily a way to namespace your methods.
+
+Bader, Dan. Python Tricks: A Buffet of Awesome Python Features (p. 147). Dan Bader (dbader.org). Kindle Edition. 
+
 We added an area() instance method that calculates and returns the components area.
 
 
@@ -49,7 +54,6 @@ class Shape(CanvasComponent):
             'Point': False,
             'Pointcloud': False,
             'Text': False,
-            'Pixel': False
             'Pixel': False
             }
 
