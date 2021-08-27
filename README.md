@@ -22,6 +22,7 @@ keywords Visual Design Component, generative art,
 14. <https://github.com/PERCE-NEIGE/neural-style>
 15. <https://muthu.co/reduce-the-number-of-colors-of-an-image-using-k-means-clustering/>
 16. <https://www.pythoninformer.com/generative-art/>
+17. <https://www.youtube.com/watch?v=9NQVRFnkb1E>
 py_art_me is a collection of sources related to making art programmatically. 
 
 Research question : How great Python is for art?
