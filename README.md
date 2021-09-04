@@ -6,6 +6,7 @@ keywords Visual Design Component, generative art,
 2. dxf
 
 # "Go forth and make"
+-1. <https://learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/>
 0. <https://stackoverflow.com/questions/48318758/opencv-python-image-dithering>
 1. <https://www.youtube.com/watch?v=Y-hQn4KQA70>  and <https://github.com/hogesonline/svg_play>
 3. <https://stackoverflow.com/questions/25910299/best-way-to-create-vector-graphics-in-python-to-be-used-in-word-powerpoint>
